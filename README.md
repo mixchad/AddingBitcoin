@@ -1,6 +1,6 @@
-## Adding Bitcoin
+## AddingBitcoin
 
-Why add a Bitcoin Cash option? Because it helps you with:
+Why? Add a Bitcoin Cash option because it helps you with:
 
  1. New business - BCH nerds seek out and prefer businesses that accept Bitcoin Cash.
  2. Sound money - non-government, fixed supply cash money that cannot be 'printed' by politicians.

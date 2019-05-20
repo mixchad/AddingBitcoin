@@ -33,7 +33,7 @@ One man's downside is another man's advantage, so it depends on your business si
 ## Practical Steps, Tax, Accounting
 
 
-These are explained in the <a href="AddingBitcoin - QuickStart guide.pdf">Quick Start PDF</a> and summarised below:
+These are explained in the <a href="AddingBitcoin - QuickStart guide.pdf" target="_blank">Quick Start PDF</a> and summarised below:
 
 1. Set up a BCH wallet on your phone.
 	* We recommend <a href="https://wallet.bitcoin.com/" target="_blank">Bitcoin.com</a> wallet
@@ -43,7 +43,7 @@ These are explained in the <a href="AddingBitcoin - QuickStart guide.pdf">Quick 
 3. Add a Bitcoin Cash button or option to your PoS/accounting system
 	* This ensures correct accounting and year-end tax assessment
 
-<a href="AddingBitcoin - QuickStart guide.pdf" class="btn">Quick Start Guide (PDF)</a>
+<a href="AddingBitcoin - QuickStart guide.pdf" class="btn" target="_blank">Quick Start Guide (PDF)</a>
 
 
 ## About Us
@@ -52,7 +52,7 @@ AddingBitcoin is a non-profit, merchant-focused collection of resources for busi
 
 It is run by volunteers who believe in the benefits of non-government sound money, that doesn't rely on a trusted third party.
 
-There were many attempts at electronic money before [Satoshi Nakamoto's invention](https://www.bitcoincash.org/bitcoin.pdf) - and many afterwards too. But as it stands today, Bitcoin Cash looks like the most likely to succeed. That's why we're here. 
+There were many attempts at electronic money before <a href="https://www.bitcoincash.org/bitcoin.pdf" target="_blank">Satoshi Nakamoto's invention</a> - and many afterwards too. But as it stands today, Bitcoin Cash looks like the most likely to succeed. That's why we're here. 
 
 
 ### Make this website clearer

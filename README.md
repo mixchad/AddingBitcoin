@@ -1,20 +1,21 @@
 ## AddingBitcoin
 
-Why? Add a Bitcoin Cash option because it helps you with:
+Why? Add a Bitcoin Cash (BCH) payment option because it helps you with
 
- 1. New business - BCH nerds seek out and prefer businesses that accept Bitcoin Cash.
- 2. Sound money - non-government, fixed supply cash money that cannot be 'printed' by politicians.
- 3. No chargebacks - Fraud protection is built-in, with no cost to you.
- 4. Your eduction - get ahead of curve in crypto education and understanding.
+ 1. **Cash-in-hand** - Instant, cleared payment. No waiting weeks or months from card processors
+ 2. **No chargebacks** - Fraud protection is built-in, with no cost to you.
+ 3. **New business** - BCH nerds seek out and prefer businesses that accept Bitcoin Cash.
+ 4. **Sound money** - Non-government, fixed supply. It cannot be 'printed' by politicians.
+ 5. **Your education** - Get ahead of curve in crypto education and understanding.
  
-Do you accept Bitcoin Cash yet?  Plenty of other merchants [already do](https://acceptbitcoin.cash).
+Do you accept Bitcoin Cash yet?  Plenty of other merchants <a href="https://acceptbitcoin.cash" target="_blank">already do</a>.
 
 ### Potential Downsides?
 
 One man's downside is another man's advantage, so it depends on your business situation. Here are some common reservations
 
 1. Volatility. The price in Euros changes *all the time*. There is a risk your business could lose money, if you are forced to change BCH into Euros when the price is lower.
-2. Is it worth it? Any business process change has an effort 'cost', even though it's free in Euros. Whether accepting Bitcoin Cash benefits your business enough to offset that will depend on your business type and market.
+2. Is it worth it? Any business process change has an effort 'cost', even though if free in Euros. Whether accepting Bitcoin Cash benefits your business enough to offset that will depend on your business type and market.
 
 ## Addressing Potential Downsides
 
@@ -25,9 +26,9 @@ One man's downside is another man's advantage, so it depends on your business si
 	* Alternatively, you can convert immediately into Euros at the time of receipt by using a *payment processor*. This completely removes volatility risk, but at a small cost overhead similar to the cost of debit cards.
 	
 2. Is it worth it?
-	* For most small businesses, and many large ones, we believe that over the long term, it will very much be worth it.
-	* It would not make sense if your businesses has cashflow problems.
-	* Our goal is to reduce the effort 'cost' to you, making it worthwhile for a larger number of businesses.
+	* It would not make sense if your businesses currently has cashflow problems.
+	* But for most small businesses, over the long term, it is very much worth it.
+	* Our goal is to reduce the effort 'cost' to you, in order to increase merchant adoption.
 
 ## Practical Steps, Tax, Accounting
 
@@ -35,12 +36,14 @@ One man's downside is another man's advantage, so it depends on your business si
 These are explained in the <a href="AddingBitcoin - QuickStart guide.pdf">Quick Start PDF</a> and summarised below:
 
 1. Set up a BCH wallet on your phone.
-	* We recommend <a href="https://wallet.bitcoin.com/">Bitcoin.com</a> wallet
+	* We recommend <a href="https://wallet.bitcoin.com/" target="_blank">Bitcoin.com</a> wallet
 2. Print a "clipboard sheet" and update invoice footer with your BCH address
-	* The clipboard sheet is for 'bricks and mortar' in-person sales
-	* The footer is for invoicing suppliers 
+	* The clipboard sheet is for '*bricks and mortar*' in-person sales
+	* The footer is for invoices / payment advice slips you send to customers and suppliers
 3. Add a Bitcoin Cash button or option to your PoS/accounting system
 	* This ensures correct accounting and year-end tax assessment
+
+<a href="AddingBitcoin - QuickStart guide.pdf" class="btn">Quick Start Guide (PDF)</a>
 
 
 ## About Us
@@ -59,4 +62,4 @@ We welcome improvements - please open an issue [on GitHub]({{ site.github.reposi
 **Editorial Policy**
 
 * Act in the *best interests of the merchant*. Be honest, especially if adding Bitcoin Cash may not help their business. Make recommendations based on best fit for the merchant - accept no inducements from platform providers to recommend their services.
-* Make *single* recommendations. One wallet, one point of sale solution, one web payment button, etc. Decisions slow down adoption. After a merchant has started, they will have a better idea of their needs and BCH turnover. And therefore in a good position to evaluate other options at that time.
+* Make *single* recommendations. One wallet, one point of sale solution, one web payment button, etc. Decisions slow down adoption. After a merchant has started, they will have a better idea of their needs and can evaluate additional options at that time.

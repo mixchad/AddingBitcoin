@@ -1,49 +1,46 @@
 ## AddingBitcoin
 
-Why? Add a Bitcoin Cash (BCH) payment option because it helps you with
+Add a Bitcoin Cash (BCH) payment option to your business because it helps you with:
 
- 1. **Cash-in-hand** - Instant, cleared payment. No waiting weeks or months from card processors
- 2. **No chargebacks** - Fraud protection is built-in, with no cost to you.
- 3. **New business** - BCH nerds seek out and prefer businesses that accept Bitcoin Cash.
- 4. **Sound money** - Non-government, fixed supply. It cannot be 'printed' by politicians.
- 5. **Your education** - Get ahead of curve in crypto education and understanding.
- 
+ 1. **New business** - Nerds seek out and prefer businesses that accept Bitcoin Cash
+ 2. **No chargebacks** - Receive online easily and safely with no fraud risk
+ 3. **Cash-in-hand** - Instant, cleared payment. No waiting for funds from card processors
+ 4. **Sound money** - Fixed supply, non-government money - it can't be inflated by the ECB
+
 Do you accept Bitcoin Cash yet?  Plenty of other merchants <a href="https://acceptbitcoin.cash" target="_blank">already do</a>.
 
-### Potential Downsides?
+## Tax, Accounting and Practical Steps
 
-One man's downside is another man's advantage, so it depends on your business situation. Here are some common reservations
-
-1. Volatility. The price in Euros changes *all the time*. There is a risk your business could lose money, if you are forced to change BCH into Euros when the price is lower.
-2. Is it worth it? Any business process change has an effort 'cost', even though if free in Euros. Whether accepting Bitcoin Cash benefits your business enough to offset that will depend on your business type and market.
-
-## Addressing Potential Downsides
-
-1. Volatility
-	* Your risk exposure is very low because few people use it today. So it means a very small percentage of your turnover would be in BCH.
-	* By not selling into Euros, you can pay *your* suppliers in BCH - use as money - as well as position your business for a potential increase in price.
-	* With fixed supply and *use as money*, the expectation is that the price in Euros will go up over the *long* term - say 3~5 years. Nothing is guaranteed however, up or down, as no-one can tell the future.
-	* Alternatively, you can convert immediately into Euros at the time of receipt by using a *payment processor*. This completely removes volatility risk, but at a small cost overhead similar to the cost of debit cards.
-	
-2. Is it worth it?
-	* It would not make sense if your businesses currently has cashflow problems.
-	* But for most small businesses, over the long term, it is very much worth it.
-	* Our goal is to reduce the effort 'cost' to you, in order to increase merchant adoption.
-
-## Practical Steps, Tax, Accounting
-
-
-These are explained in the <a href="AddingBitcoin - QuickStart guide.pdf" target="_blank">Quick Start PDF</a> and summarised below:
-
-1. Set up a BCH wallet on your phone.
+1. Add a Bitcoin Cash payment type to your accounting / point-of-sale system
+	* This is a new option complementing existing such as 'Card' or 'Cash'
+	* It ensures year-end tax assessment and accounting are correct
+2. Set up a BCH wallet on your phone
 	* We recommend <a href="https://wallet.bitcoin.com/" target="_blank">Bitcoin.com</a> wallet
-2. Print a "clipboard sheet" and update invoice footer with your BCH address
+3. Set up an invoice footer, or clipboard sheet, with your BCH address
+	* The footer is for invoices you send to customers - and remittance advice slips sent to suppliers
 	* The clipboard sheet is for '*bricks and mortar*' in-person sales
-	* The footer is for invoices / payment advice slips you send to customers and suppliers
-3. Add a Bitcoin Cash button or option to your PoS/accounting system
-	* This ensures correct accounting and year-end tax assessment
 
-<a href="AddingBitcoin - QuickStart guide.pdf" class="btn" target="_blank">Quick Start Guide (PDF)</a>
+These are explained in detail in the <a href="AddingBitcoin - QuickStart guide.pdf" target="_blank">Quick Start PDF</a>
+
+[//]: # Commented out <a href="AddingBitcoin - QuickStart guide.pdf" class="btn" target="_blank">Quick Start Guide (PDF)</a>
+
+
+### Questions or Concerns?
+
+Here are some common reservations:
+
+
+1. Is it worth the learning curve? Even if it's free in Euros, is it worth the effort?
+	* It does *not* make sense if your businesses currently has cashflow problems.
+	* For many small businesses however, it is worth it for gaining a niche of loyal customers.
+	* AddingBitcoin's goal is to make it easier for merchants, to encourage more merchant adoption.
+2. Volatility. The price in Euros changes all the time. 
+    * If you are forced to exchange BCH into Euros when the price is lower, then you would lose money at that time.
+	* Howoever your exposure to risk is low, because it's still relatively niche. Only a small percentage of turnover would be in BCH.
+	* With fixed supply and *use as money*, the expectation is that the price in Euros will go up over the *long* term - say 3~5 years. Nothing is guaranteed however, up or down, as no-one can tell the future.
+	* By *not* selling into Euros you can also pay *your* suppliers in BCH - use as money. And position your business for a potential increase in price.
+	* You could also remove volatility risk entirely, but converting immediately into Euros at the time of payment. This is done by using a *payment processor*. It comes with a small cost overhead, similar to the cost of debit cards. Please contact us for recommendations.
+
 
 
 ## About Us

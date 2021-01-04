@@ -58,8 +58,8 @@ There were many attempts at electronic money before <a href="https://www.bitcoin
 	* Add it to your invoices, near your IBAN bank details
 	* Add it to remittance advice slips to suppliers 
 	* For in-person, '*bricks and mortar*' sales then either:
-	** Print a branded '[clipboard sheet]({{ site.url }}/assets/AddingBitcoin - QuickStart guide.pdf "Quick Start Guide")' to hand to customers, freeing up your staff for other tasks
-	** Take payments on a tablet or similar device using the [Cash Register App](https://www.bitcoin.com/bitcoin-cash-register/).
+	  * Print a branded '[clipboard sheet]({{ site.url }}/assets/AddingBitcoin - QuickStart guide.pdf "Quick Start Guide")' to hand to customers, freeing up your staff for other tasks
+	  * Take payments on a tablet or similar device using the [Cash Register App](https://www.bitcoin.com/bitcoin-cash-register/).
 
 See more details in the [Quick Start PDF]({{ site.url }}/assets/AddingBitcoin - QuickStart guide.pdf "Quick Start Guide").
 

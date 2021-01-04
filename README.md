@@ -45,17 +45,23 @@ There were many attempts at electronic money before <a href="https://www.bitcoin
 
 ## How? Tax, Accounting and Practical Steps
 
-1. Add a 'Bitcoin Cash' payment type to your accounting / point-of-sale system
-	* This is a new button complementing existing such as 'Card' or 'Cash'
-	* It ensures year-end tax assessment and accounting are correct
 1. Set up a BCH wallet on your phone
 	* We recommend <a href="https://wallet.bitcoin.com/" target="_blank">Bitcoin.com</a> wallet
-1. Set up an invoice footer, or clipboard sheet, with your BCH address
-	* The footer is for invoices you send to customers
-	* Add the footer to remittance advice slips sent to suppliers, too
-	* The clipboard sheet is for '*bricks and mortar*' in-person sales
+	* Write your twelve-word seed by hand. On a pad and keep that safe, eg with your passport
+	* Click receive on the app and note your BCH address, which works similarly to an IBAN
+1. Add a 'Bitcoin Cash' button on your point-of-sale system
+	* Minimal staff training, they enter Euro amount and the new BCH button instead of Card or Cash
+	* Add Bitcoin Cash payment type on your back-end accounting system
+	* It is [legal, private money in Germany](https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory#Germany "On 19 August 2013, the German Finance Ministry announced that bitcoin is now essentially a unit of account and can be used for the purpose of tax and trading in the country. It is not classified as a foreign currency or e–money but stands as private money, according to the ministry."), you don't need permission from the state or your accountant
+1. Advertise your BCH address to customers and suppliers
+    * Add it to your website front page, and at checkout
+	* Add it to your invoices, near your IBAN bank details
+	* Add it to remittance advice slips to suppliers 
+	* For in-person, '*bricks and mortar*' sales then either:
+	** Print a branded '[clipboard sheet]({{ site.url }}/assets/AddingBitcoin - QuickStart guide.pdf "Quick Start Guide")' to hand to customers, freeing up your staff for other tasks
+	** Take payments on a tablet or similar device using the [Cash Register App](https://www.bitcoin.com/bitcoin-cash-register/).
 
-These are explained in more detail in the [Quick Start PDF]({{ site.url }}/assets/AddingBitcoin - QuickStart guide.pdf "Quick Start Guide").
+See more details in the [Quick Start PDF]({{ site.url }}/assets/AddingBitcoin - QuickStart guide.pdf "Quick Start Guide").
 
 [//]: # Commented out <a href="AddingBitcoin - QuickStart guide.pdf" class="btn" target="_blank">Quick Start Guide (PDF)</a>
 
